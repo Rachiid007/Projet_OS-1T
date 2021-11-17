@@ -1,0 +1,3 @@
+pwd
+who
+ls -la
