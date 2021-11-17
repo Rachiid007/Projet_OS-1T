@@ -1,6 +1,6 @@
-#PROJET OS 1T - JUIN 2021
+# PROJET OS 1T - JUIN 2021
 
-###BELLAALI Abderrachid, POURBAIX Michaël, NECHIFOR Bogdan, HAKIZIMANA Aymar Davy
+### BELLAALI Abderrachid, POURBAIX Michaël, NECHIFOR Bogdan, HAKIZIMANA Aymar Davy
 
 Partie 1
 
