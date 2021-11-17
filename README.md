@@ -1,6 +1,6 @@
-PROJET OS 1T - JUIN 2021
+#PROJET OS 1T - JUIN 2021
 
-BELLAALI Abderrachid, POURBAIX Michaël, NECHIFOR Bogdan, HAKIZIMANA Aymar Davy
+###BELLAALI Abderrachid, POURBAIX Michaël, NECHIFOR Bogdan, HAKIZIMANA Aymar Davy
 
 Partie 1
 
@@ -25,3 +25,7 @@ Le programme reçoit maintenant en paramètre (via la ligne de commande) un shel
 Ne comporte pas de programmation
 Se limite à la syntaxe du shell vue au cours (y compris les pipes, redirections, combinaisons de commandes, wildcarts, …) Chacune des commandes du fichier doit être exécutée par un fils, qui renvoie les résultats au père via le pipe et le père affichera les résultats à l’écran (comme pour la partie 1).
 Bon courage !
+
+Execution :
+gcc main.c -o prog
+./prog shellFile.sh
